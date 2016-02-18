@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/app-frame/app-frame-electron-template/issues"
   },
-  "homepage": "https://github.com/app-frame/app-frame-electron-template#readme"
+  "homepage": "https://github.com/app-frame/app-frame-electron-template#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.7"
+  }
 }
