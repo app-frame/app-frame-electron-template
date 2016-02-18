@@ -1,0 +1,26 @@
+{
+  "name": "app-frame-electron-template",
+  "version": "1.0.0",
+  "description": "A minimal App Frame - Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app-frame/app-frame-electron-template.git"
+  },
+  "keywords": [
+    "app-frame",
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "GitHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/app-frame/app-frame-electron-template/issues"
+  },
+  "homepage": "https://github.com/app-frame/app-frame-electron-template#readme"
+}
