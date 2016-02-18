@@ -1,5 +1,8 @@
 {
   "name": "AppFrameElectronSample",
   "version": "0.0.1",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~1.10.2"
+  }
 }
