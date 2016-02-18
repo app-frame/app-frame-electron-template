@@ -4,6 +4,7 @@
   "description": "A minimal App Frame - Electron application",
   "main": "main.js",
   "scripts": {
+    "prestart": "npm install",
     "start": "electron main.js"
   },
   "repository": {
