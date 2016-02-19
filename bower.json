@@ -1,5 +1,8 @@
 {
   "name": "AppFrameElectronSample",
-  "version": "0.0.1",
-  "license": "MIT"
+  "version": "1.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "app-frame": "^1.0.0"
+  }
 }
